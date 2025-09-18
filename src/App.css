@@ -7,20 +7,19 @@
 .item-list-container {
   padding: 3rem 2rem;
   text-align: center;
-  background-color: #fff;
+  background-color: #e1e7ff;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   margin-top: 2rem;
 }
 
 .item-list-container h1 {
-  color: #ffc5aa;
-  font-size: 2rem;
+  color: #00319b;
+  font-size: 2.5rem;
   margin-bottom: 1rem;
 }
 
 .item-list-container p {
-  color: #838cff;
-  font-size: 1rem;
+  color: #006c9e;
+  font-size: 1.5rem;
   margin-top: 0.5rem;
 }
